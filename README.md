@@ -24,7 +24,7 @@ Bu repository gönüllü olarak Ege Üniversitesi öğrencilerine vermiş olduğ
 + Listeler
 + Pratikler_3 dokümanındaki bazı örnekler kodlandı
 + Yazılımdaki önemli kavramlaradan bahsedildi
-+ <b> Pratikler_3 dokümanındaki tüm örnekleri kendileri kodlaması ödev verildi.</b>
++ <b> Pratikler_3 dokümanındaki tüm örnekleri kendileri kodlaması için ödev verildi.</b>
 ## 5.Hafta
 + Liste, sözlük, demet ve küme yapıları
 + Fonksiyonlar
